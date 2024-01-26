@@ -1,0 +1,24 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "Nyobain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikdiklndu/NodeJsTest.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "dikdiklndu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikdiklndu/NodeJsTest/issues"
+  },
+  "homepage": "https://github.com/dikdiklndu/NodeJsTest#readme"
+}
